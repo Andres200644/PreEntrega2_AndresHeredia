@@ -80,8 +80,14 @@ div h1{
     height : 35% ;
     justify-content:flex-end;
     align-items:center; 
-
  }
+
+ section h1{
+  text-align: center;
+  justify-content: center;
+  color: #000046;
+}
+
 footer {
   background-color: black;
   color: white;
